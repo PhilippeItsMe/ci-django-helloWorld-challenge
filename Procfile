@@ -1,1 +1,1 @@
-web: gunicorn ci-django-hellowworld-challenge.wsgi
+web: gunicorn ci-django-helloWorld-challenge.wsgi
