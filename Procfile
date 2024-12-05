@@ -1,1 +1,1 @@
-web: gunicorn ci-django-helloWorld-challenge.wsgi
+web: gunicorn ci-django-my_project.wsgi
